@@ -1,8 +1,10 @@
 # Gyro Simulator for 360 VR
-
+# In Unity
 ![Animation](/Animation.gif?raw=true "360VR")
+### How to use!
+> Attach the script to your main camera
 
-This small script is using compass and accelorometer of your mobile phone to simulate the ativity of a gyroscope for the devices were the gyroscope sensor is not avalable.
+
 ```sh
 using System.Collections;
 using System.Collections.Generic;
