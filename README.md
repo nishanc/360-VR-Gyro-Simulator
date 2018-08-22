@@ -1,6 +1,6 @@
 # Gyro Simulator for 360 VR
 # In Unity
->This small script is using compass and accelorometer of your mobile phone to simulate the ativity of a gyroscope for the devices where the gyroscope sensor is not avalable.
+>This small script is using compass and accelerator of your mobile phone to simulate the activity of a gyroscope for the devices where the gyroscope sensor is not available.
 
 ![Animation](/Animation.gif?raw=true "360VR")
 ### How to use!
